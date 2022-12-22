@@ -9,5 +9,3 @@ I'm Denis, I live in Palma de Mallorca and I'm a Frontend Developer. I love work
 -   CSS
 -   JavaScript and TypeScript
 -   Java
-
-## TODO LIST
